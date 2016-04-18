@@ -1,2 +1,2 @@
-# force-protocols
-Preliminary collaboration for representing scientific protocols emerging from FORCE11 
+Place Souce Code and Data here. Put all documentation in the [wiki](wiki)
+
